@@ -7,7 +7,7 @@ GM.Website 	= "N/A"
 
 DeriveGamemode( "sandbox" )
 
-TEAM_OFFICER = 1
+TEAM_GUARD = 1
 TEAM_PRISONER = 2
 TEAM_SPECTATOR = 3
 
